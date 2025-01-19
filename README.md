@@ -44,7 +44,7 @@ TrashFlight는 플레이어가 좌우로 움직이며 던져서 공격하고, �
   - 다시 시작 버튼 제공.
 
 ## 📲 APK 다운로드
-- **TrashFlight.apk 다운로드** (https://drive.google.com/file/d/1VmKH4M41uUzUQXfFmiWQHyK_FXgKxfiH/view?usp=sharing) 
+- [**TrashFlight.apk 다운로드**] (https://drive.google.com/file/d/1VmKH4M41uUzUQXfFmiWQHyK_FXgKxfiH/view?usp=sharing) 
   (안드로이드에서만 가능)
 
 ## 📄 추가 기능 아이디어
@@ -54,4 +54,4 @@ TrashFlight는 플레이어가 좌우로 움직이며 던져서 공격하고, �
 - 보스의 능력치나 공격 패턴을 다양화하여 난이도 상승.
 
 ## 참조 자료
-- 나도코딩 유튜브(https://www.youtube.com/watch?v=rJE6bhVUNhk)
+- [나도코딩 유튜브](https://www.youtube.com/watch?v=rJE6bhVUNhk)
